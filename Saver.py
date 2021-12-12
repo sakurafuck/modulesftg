@@ -1,6 +1,3 @@
-#   Coded by D4n13l3k00    #
-#     t.me/D4n13l3k00      #
-# This code under AGPL-3.0 #
 import io
 
 from .. import loader, utils
